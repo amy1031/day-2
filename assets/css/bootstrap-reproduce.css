@@ -13,6 +13,9 @@ h1 {
 .blue-bg {
   background-color: #469ae0;
 }
+.card {
+    padding: 25px;
+}
 
 .card-title {
     font: #fff;
