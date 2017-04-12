@@ -2,6 +2,11 @@
     background-color: #909090;
 }
 
+.header-img {
+    display: block;
+    float: center;
+}
+
 h1 {
     text-align: center;
     text-transform: uppercase;
