@@ -23,6 +23,13 @@ hr.header {
     text-align: center;
 }
 
+.nav li {
+	display:i nline-block;
+	float: none;
+	margin: 0 20px;
+	vertical-align: middle;
+}
+
 .card {
     margin: 10px auto 10px auto;
 }
