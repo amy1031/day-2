@@ -1,6 +1,6 @@
-.img-crop { 
-    max-height: 375px; 
-    overflow: hidden; }
+.img-crop {
+  margin: 0 auto -50%;
+}
 
 h1 {
     text-align: center;
