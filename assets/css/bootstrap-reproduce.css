@@ -15,15 +15,25 @@ h1 {
 }
 
 .card-title {
-    font: #fff !important;
+    font: #fff;
     font-family: helvetica;
     font-size: 16px;
     text-align: center;
 }
 
 .card-text {
-    font: #fff !important;
+    font: #fff;
     font-family: helvetica;
     font-size: 12px;
     text-align: center;
+}
+
+h2 {
+    font-family: helvetica;
+    font-size: 16px;
+}
+
+.news {
+    font-family: helvetica;
+    font-size: 12px;
 }
