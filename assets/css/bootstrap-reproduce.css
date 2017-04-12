@@ -1,5 +1,12 @@
 .img-crop {
-  margin: 0 auto -50%;
+  margin: 0 auto -30%;
+}
+
+.carousel-caption {
+      max-width: 300px;
+      padding: 0 20px;
+      margin: 0 auto;
+      margin-top: 200px;
 }
 
 h1 {
