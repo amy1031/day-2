@@ -23,7 +23,7 @@ hr.header {
     text-align: center;
 }
 
-.nav li {
+li.nav-item {
 	display: inline-block;
 	margin: 0 20px;
 	vertical-align: middle;
