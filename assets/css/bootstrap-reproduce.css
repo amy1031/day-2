@@ -21,12 +21,8 @@ hr.header {
 
 .nav {
     text-align: center;
-}
-
-li.nav-item {
 	display: inline-block;
 	margin: 0 20px;
-	vertical-align: middle;
 }
 
 .card {
