@@ -2,7 +2,7 @@
     display: block;
     margin: 0px auto 10px auto;
     float: center;
-    width: 200px;
+    width: 300px;
     height: auto;
 }
 
@@ -17,4 +17,12 @@ hr.header {
     border: 0px;
     height: 2px;
     width: 20%;
+}
+
+.nav {
+    text-align: center;
+}
+
+.card {
+    margin: 10px auto 10px auto;
 }
