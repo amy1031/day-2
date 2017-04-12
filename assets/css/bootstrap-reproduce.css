@@ -34,17 +34,19 @@ h1 {
 
 h2 {
     font-family: helvetica;
-    font-size: 16px;
-    padding-top: 100px;
-    text-align: center;
-}
-
-h3 {
-    font-family: helvetica;
     font-size: 18px;
     padding-top: 100px;
     text-align: center;
     color: #909090;
+}
+
+h3 {
+    font-family: helvetica;
+    font-size: 14px;
+    padding-top: 100px;
+    text-align: center;
+    color: #fff;
+    background-color: #469ae0;
 }
 
 .news {
@@ -52,6 +54,14 @@ h3 {
     font-size: 12px;
     text-align: center;
     color: #909090;
+}
+
+.info {
+    font-family: helvetica;
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    background-color: #469ae0;
 }
 
 .btn-default {
