@@ -1,13 +1,19 @@
 h1 {
     text-align: left;
-    font-family: arial;
-    font-size: 24px;
-    font-weight: bold;
-    color: #469ae0;
+    font-family: helvetica;
+    font-size: 48px;
+    color: #fff;
+}
+
+.p-header {
+    font-family: helvetica;
+    font-size: 16px;
+    color: #fff;
 }
 
 .blue-bg {
-  background-color: #469ae0;
+    background-color: #469ae0;
+    color: #fff;
 }
 
 /*.card-block {
@@ -34,16 +40,16 @@ h1 {
 
 h2 {
     font-family: helvetica;
-    font-size: 18px;
+    font-size: 26px;
     padding-top: 100px;
     text-align: center;
-    color: #909090;
+    color: #000;
 }
 
 h3 {
     font-family: helvetica;
     font-size: 14px;
-    padding-top: 100px;
+    padding-top: 10px;
     text-align: center;
     color: #fff;
     background-color: #469ae0;
@@ -53,7 +59,7 @@ h3 {
     font-family: helvetica;
     font-size: 12px;
     text-align: center;
-    color: #909090;
+    color: #000;
 }
 
 .info {
@@ -66,14 +72,54 @@ h3 {
 
 .btn-default {
     border: 1px solid #909090;
-    font: #fff;
+    color: #fff;
+    background-color: #469ae0;
 }
 
 .footer {
-    display: block;
     background-color: #000;
     color: #fff;
+    padding: 25px 100px 25px 100px;
+width: ;idth: 100%;
 }
-.map {
-        background-image: url("http://i.imgur.com/B9cf7sh.png");
+
+.footer-text {
+    font-family: helvetica;
+    font-size: 12px;
+    text-align: right;
+    color: #fff;
+    background-color: #000;
+    padding-bottom: 20px;
+    margin: 0px 0px 0px 0px;
 }
+
+.footer-icons {
+    text-align: left;
+    color: #fff;
+    background-color: #000;
+    margin: 0px 0px 0px 0px;
+}
+
+.map, .img-map {
+     margin: 0;
+    width: 100%;
+}
+
+.icon {
+    display: block;
+    margin: 20px auto 5px auto;
+    text-align: center;
+}
+
+.form-inline {
+    display: block;
+    width:25%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.header-text {
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    width: 100%;
