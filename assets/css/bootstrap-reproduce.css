@@ -14,3 +14,21 @@ h1 {
 .card {
     margin: 10px auto 10px auto;
 }
+
+.blue-bg {
+  background-color: #2ba6cb;
+}
+
+.card-title {
+    font: #fff;
+    font-family: helvetica;
+    font-size: 16px;
+    text-align: center;
+}
+
+.card-text {
+    font: #fff;
+    font-family: helvetica;
+    font-size: 12px;
+    text-align: center;
+}
