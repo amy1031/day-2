@@ -1,8 +1,6 @@
-.header-img {
-    position: absolute;
-    clip: rect(auto, auto, 300px, auto);
-    clip: rect(auto auto 300px auto);
-}
+.img-crop { 
+    max-height: 375px; 
+    overflow: hidden; }
 
 h1 {
     text-align: center;
