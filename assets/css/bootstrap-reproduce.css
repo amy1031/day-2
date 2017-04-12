@@ -3,30 +3,32 @@ h1 {
     font-family: arial;
     font-size: 24px;
     font-weight: bold;
-    color: #808080;
+    color: #469ae0;
 }
 
-.card {
+/*.card {
     margin: 10px auto 10px auto;
-}
+}*/
 
 .blue-bg {
   background-color: #469ae0;
 }
 .card {
-    padding: 25px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 20%;
     background-color: #469ae0;
 }
 
 .card-title {
-    font: #fff;
+    font: #fff !important;
     font-family: helvetica;
     font-size: 16px;
     text-align: center;
 }
 
 .card-text {
-    font: #fff;
+    font: #fff !important;
     font-family: helvetica;
     font-size: 12px;
     text-align: center;
@@ -35,9 +37,18 @@ h1 {
 h2 {
     font-family: helvetica;
     font-size: 16px;
+    padding-top: 100px;
+    text-align: center;
 }
 
 .news {
     font-family: helvetica;
     font-size: 12px;
+    text-align: center;
+}
+
+.btn-default {
+    border: 1px solid #909090;
+    border-radius: 70%;
+    font: #fff;
 }
