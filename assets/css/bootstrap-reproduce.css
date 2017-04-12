@@ -6,29 +6,27 @@ h1 {
     color: #469ae0;
 }
 
-/*.card {
-    margin: 10px auto 10px auto;
-}*/
-
 .blue-bg {
   background-color: #469ae0;
 }
-.card {
+
+.card-block {
     padding-top: 100px;
     padding-bottom: 100px;
-    width: 20%;
+    width: 40%;
     background-color: #469ae0;
+    border: 0px;
 }
 
 .card-title {
-    font: #fff !important;
+    font: #fff;
     font-family: helvetica;
     font-size: 16px;
     text-align: center;
 }
 
 .card-text {
-    font: #fff !important;
+    font: #fff;
     font-family: helvetica;
     font-size: 12px;
     text-align: center;
@@ -49,6 +47,6 @@ h2 {
 
 .btn-default {
     border: 1px solid #909090;
-    border-radius: 70%;
+    border-radius: 90%;
     font: #fff;
 }
