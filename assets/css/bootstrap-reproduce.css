@@ -9,8 +9,9 @@
 h1 {
     text-align: center;
     font-family: arial;
-    font-size: 36px;
+    font-size: 28px;
     font-weight: bold;
+    color: #808080;
 }
 
 .card {
