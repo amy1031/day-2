@@ -10,7 +10,7 @@ h1 {
   background-color: #469ae0;
 }
 
-.card-block {
+/*.card-block {
     padding-top: 100px;
     padding-bottom: 100px;
     width: 40%;
@@ -30,7 +30,7 @@ h1 {
     font-family: helvetica;
     font-size: 12px;
     text-align: center;
-}
+}*/
 
 h2 {
     font-family: helvetica;
@@ -47,6 +47,5 @@ h2 {
 
 .btn-default {
     border: 1px solid #909090;
-    border-radius: 90%;
     font: #fff;
 }
