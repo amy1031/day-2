@@ -8,21 +8,10 @@
 
 h1 {
     text-align: center;
-    text-transform: uppercase;
-    font-family: georgia;
+    font-family: arial;
     font-size: 48px;
+    font-weight: bold;
 }
-
-hr.header {
-    border: 0px;
-    height: 2px;
-    width: 20%;
-}
-
-/*.nav {
-	display: block;
-	margin: 0 20px;
-}*/
 
 .card {
     margin: 10px auto 10px auto;
