@@ -11,18 +11,18 @@ h1 {
 }
 
 .blue-bg {
-  background-color: #2ba6cb;
+  background-color: #469ae0;
 }
 
 .card-title {
-    font: #fff;
+    font: #fff !important;
     font-family: helvetica;
     font-size: 16px;
     text-align: center;
 }
 
 .card-text {
-    font: #fff;
+    font: #fff !important;
     font-family: helvetica;
     font-size: 12px;
     text-align: center;
