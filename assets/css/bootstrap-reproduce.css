@@ -15,18 +15,18 @@ h1 {
     margin: 10px auto 10px auto;
 }
 
-.blue-bg {
+div.blue-bg {
   background-color: #2ba6cb;
 }
 
-.card-title {
+h3.card-title {
     font: #fff;
     font-family: helvetica;
     font-size: 16px;
     text-align: center;
 }
 
-.card-text {
+p.card-text {
     font: #fff;
     font-family: helvetica;
     font-size: 12px;
