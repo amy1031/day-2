@@ -19,11 +19,10 @@ hr.header {
     width: 20%;
 }
 
-.nav {
-    text-align: center;
-	display: inline-block;
+/*.nav {
+	display: block;
 	margin: 0 20px;
-}
+}*/
 
 .card {
     margin: 10px auto 10px auto;
