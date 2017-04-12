@@ -1,9 +1,15 @@
-.bg-grey {
+body {
+    border-top: 3px solid red;
+    border-bottom: 3px solid red;
+}
+
+.bg-gray {
     background-color: #909090;
 }
 
 .header-img {
     display: block;
+    margin: 0px auto 10px auto;
     float: center;
 }
 
